@@ -1,1 +1,1 @@
-this repository is dedicated into practising Python 
+this repository is dedicated to practising Python skills
