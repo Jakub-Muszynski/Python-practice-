@@ -1,3 +1,3 @@
-thislist = list(("apple", "banana", "orange"))
+thislist = list(("apple", "banana.", "orange"))
 print(thislist)
 
