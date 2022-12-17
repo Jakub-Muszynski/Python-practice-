@@ -1,4 +1,4 @@
-x, y, z = "Blue", "Green", "Orangge"
+x, y, z = "Blue", "Green", "Orange"
 
 print(x)
 print(y)
